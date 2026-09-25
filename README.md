@@ -37,13 +37,22 @@ Real Estate Value Estimator/
 │   ├── i18n/
 │   │   ├── LanguageContext.tsx
 │   │   └── translations.ts
+│   ├── styles/
+│   │   ├── default_shadcn_theme.css
+│   │   ├── globals.css
+│   │   ├── index.css
+│   │   ├── tailwind.css
+│   │   └── theme.css
 │   ├── main.tsx
-│   └── styles/
+│   └── ...
 ├── index.html
 ├── package.json
 ├── vite.config.ts
 ├── pnpm-workspace.yaml
-└── README.md
+├── postcss.config.mjs
+├── .gitignore
+├── README.md
+└── ...
 ```
 
 ## How to Run
